@@ -1,4 +1,4 @@
-# Prompt-COBOL-
+# Prompt-COBOL-DeepSeek
 
 ═══════════════════════════════════════════════════════
 MODO ADAPTATIVO CONTEXTUAL — v19
